@@ -1,0 +1,2 @@
+# CustomComponent
+Created with CodeSandbox
